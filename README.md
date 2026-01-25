@@ -1,4 +1,4 @@
-# Pentesting Notes
+# OSCP Notes
 
 Phase-wise structured pentesting notes  
 Recon → Enum → Initial Access → PrivEsc → Lateral → Post Exploitation
