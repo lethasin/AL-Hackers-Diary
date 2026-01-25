@@ -14,4 +14,4 @@
     - Auto-Extraction from google search (Linux friendly)
       - Search using dorks
       - Save the source code of page by Ctrl+S in a file
-      - 
+      - Run this [Script](url_extractor.sh)
