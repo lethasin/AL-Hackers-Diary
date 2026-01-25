@@ -17,7 +17,8 @@
   
 ## 3.Passive Recon
 
-  [Go to Passive Recon](passive-recon.md)
+  Go to [Passive Recon](passive-recon.md)
 ## 4.Active Recon
 
-  [Go to Active Recon](active-recon.md)
+  Go to [Active Recon](active-recon.md)
+
