@@ -1,6 +1,7 @@
 #!/bin/bash
 #Save as url_extractor.sh
 #chmod +x url_extractor.sh
+
 echo "\nUse this way to save output to a file: \n\turl_extractor.sh <html_file> >> output.txt\n"
 # check argument
 if [ $# -ne 1 ]; then
