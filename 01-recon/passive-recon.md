@@ -19,7 +19,7 @@
   
 ## Automated Subdomain Enumeration
 
-  - 
+  - [Own Toolkit](mysubenum.sh)
   - [Subenum](https://github.com/bing0o/SubEnum/)
   - Sublist3r {available on kali linux}
     - sublist3r -d domain -o <output_file>
