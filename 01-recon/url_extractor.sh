@@ -6,7 +6,7 @@ echo -e "\nUse this way to save output to a file: \n\turl_extractor.sh <html_fil
 
 # check argument
 if [ $# -ne 1 ]; then
-  echo "Usage: url_extractor <html_file>"
+  echo "Usage: ./url_extractor.sh <html_file>"
   exit 1
 fi
 
